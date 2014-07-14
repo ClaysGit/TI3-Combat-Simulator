@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI3 Combat Simulator", "TI3 Combat Simulator\TI3 Combat Simulator.csproj", "{0A772D5F-E6F2-4117-9C0D-76590166208F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleetLibrary", "FleetLibrary\FleetLibrary.csproj", "{2813A179-DF62-4A3B-B29F-F3A0303A2148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerLibrary", "RaceLibrary\PlayerLibrary.csproj", "{845EDFFC-24BE-4F89-A261-10B4C181E6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatLibrary", "CombatLibrary\CombatLibrary.csproj", "{9F74BE3D-7511-4CFF-8044-CA48B1FC5709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A772D5F-E6F2-4117-9C0D-76590166208F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A772D5F-E6F2-4117-9C0D-76590166208F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A772D5F-E6F2-4117-9C0D-76590166208F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A772D5F-E6F2-4117-9C0D-76590166208F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2813A179-DF62-4A3B-B29F-F3A0303A2148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2813A179-DF62-4A3B-B29F-F3A0303A2148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2813A179-DF62-4A3B-B29F-F3A0303A2148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2813A179-DF62-4A3B-B29F-F3A0303A2148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845EDFFC-24BE-4F89-A261-10B4C181E6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845EDFFC-24BE-4F89-A261-10B4C181E6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845EDFFC-24BE-4F89-A261-10B4C181E6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845EDFFC-24BE-4F89-A261-10B4C181E6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F74BE3D-7511-4CFF-8044-CA48B1FC5709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F74BE3D-7511-4CFF-8044-CA48B1FC5709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F74BE3D-7511-4CFF-8044-CA48B1FC5709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F74BE3D-7511-4CFF-8044-CA48B1FC5709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
